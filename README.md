@@ -70,9 +70,5 @@ By default, the system uses a simple hardcoded password for accessing the editor
 *   **Storage:** Data is serialized as JSON and stored in `wp_options` table under `helma_presentation_data`.
 *   **Polling:** The player uses AJAX long-polling (10s interval) to check `helma_last_updated` timestamp against the server.
 
-## 📄 License
-
-This project is open-source and available for use and modification.
-
 ---
 *Developed with ❤️ for Fontenehuset Asker.*
