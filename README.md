@@ -1,5 +1,3 @@
-Her er en profesjonell `README.md` på engelsk, klar til å limes inn på GitHub.
-
 ***
 
 # HELMA InfoScreen
