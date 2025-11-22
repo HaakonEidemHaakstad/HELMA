@@ -1,6 +1,6 @@
 ***
 
-# HELMA InfoScreen
+# HELMA InfoScreen (v. 1.0.0)
 
 **HELMA InfoScreen** is a lightweight, single-file WordPress plugin that turns any WordPress site into a digital signage host. It provides a PowerPoint-like visual editor for creating slides and a dedicated, auto-updating player mode for information screens.
 
